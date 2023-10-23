@@ -14,7 +14,7 @@ Using NodeJS to working with Amazone RDS MySQL
 
     Create database and Connect to AWS RDS using NodeJS
         https://www.youtube.com/watch?v=6Nt-Jl3CzxE
-    Note: Don't forget to create new VPC
+    Note: Don't forget to create new VPC and Type A NAME for Database
 
     Connect RDS mysql to Mysql Workbench
         https://repost.aws/knowledge-center/connect-rds-mysql-workbench
